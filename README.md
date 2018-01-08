@@ -1,6 +1,8 @@
+README file for WordErrorRate.
+
 WordErrorRate, tools for calculating word error rate between a hypothesis and reference text.
+
 Copyright 2017,2018 Alicia Sagae
-This file is part of WordErrorRate.
 
 WordErrorRate is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -12,8 +14,8 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the 
 GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License
-along with WordErrorRater.  If not, see <http://www.gnu.org/licenses/>.#
+A copy of the GNU General Public License should be found in the file LICENSE.
+If not, see <http://www.gnu.org/licenses/>.#
 
 
 
